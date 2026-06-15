@@ -1,0 +1,32 @@
+# Compiled files
+*.class
+
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+application-local.properties
